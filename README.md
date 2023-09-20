@@ -11,7 +11,7 @@
 <h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> 欢迎来访我的GitHub </h2>
 
 
-我的网名是`YASinger`，是一名软件开发工程师，擅长C、C++，了解JAVA，python等编程语言。目前，我主要关注在：QT开发。我曾对许多方向产生兴趣，如，下方可以看到我开源的相关项目。
+我的网名是`YASinger`，是一名软件开发工程师，擅长C、C++，了解JAVA，python等编程语言。目前，我主要关注在：QT开发。我曾对图片编解码、BT传输等许多方向产生兴趣，下方可以看到我开源的相关项目。
 
 个人主页：https://YASinger.github.io
 
@@ -20,7 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Top Repositories
 
 
 <a href="https://github.com/YASinger/torrentAnalyser">
