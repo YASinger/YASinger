@@ -8,12 +8,14 @@
 </div>
 
 
-<h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> 欢迎来访我的GitHub </h2>
+<h2>欢迎来访我的GitHub </h2>
 
 
 我的网名是`YASinger`，是一名软件开发工程师，擅长C、C++，了解JAVA，python等编程语言。目前，我主要关注在：QT开发。我曾对图片编解码、BT传输等许多方向产生兴趣，下方可以看到我开源的相关项目。
 
 个人主页：https://YASinger.github.io
+
+CSND主页：https://blog.csdn.net/YASinger
 
 希望跟大家一起多多交流。
 
