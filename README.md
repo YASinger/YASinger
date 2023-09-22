@@ -23,10 +23,9 @@ CSND主页：https://blog.csdn.net/YASinger
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YASinger&layout=compact)](https://github.com/YASinger)
 
 
+#### Top Repositories
 
-<a href="https://github.com/YASinger/torrentAnalyser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YASinger&repo=torrentAnalyser&theme=buefy" />
-</a>
-<a href="https://github.com/YASinger/torrentAnalyser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YASinger&repo=torrentAnalyser&theme=buefy" />
-</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YASinger&repo=torrentAnalyser)](https://github.com/YASinger/torrentAnalyser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YASinger&repo=torrentAnalyser)](https://github.com/YASinger/torrentAnalyser)
+
