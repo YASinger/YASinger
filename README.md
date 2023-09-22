@@ -27,5 +27,5 @@ CSND主页：https://blog.csdn.net/YASinger
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YASinger&repo=torrentAnalyser)](https://github.com/YASinger/torrentAnalyser)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YASinger&repo=torrentAnalyser)](https://github.com/YASinger/torrentAnalyser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YASinger&repo=jpegDecoder)](https://github.com/YASinger/jpegDecoder)
 
